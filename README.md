@@ -16,5 +16,5 @@ functions). The base code is given to you and you are required to fill the unimp
 functions or part of the function. In the second part ​ Part B ​ of the assignment, you have to
 achieve the desired accuracy over datasets (XOR and MNIST datasets)
 
-##Project
+## Project
 Based on stack overflow tag prediction
